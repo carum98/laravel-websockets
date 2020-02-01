@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5e29d9f-59e6-4ef5-8cf2-8e0f8428c2f3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/ServerWebSocket.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ServerWebSocket.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/websockets.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/websockets.php" afterDir="false" />
     </list>
@@ -169,7 +167,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580580412912</updated>
-      <workItem from="1580580424170" duration="1157000" />
+      <workItem from="1580580424170" duration="2764000" />
     </task>
     <servers />
   </component>
